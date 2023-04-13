@@ -1,2 +1,2 @@
 # JavaScriptThamys
-Desenvolvimento Thamys
+O projeto tem como objetivo evoluir no hard skills.
